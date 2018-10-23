@@ -106,3 +106,4 @@ venv.bak/
 /pip
 /pip_openpyxl
 *.xlsx
+/latest.zip

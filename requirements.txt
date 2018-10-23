@@ -1,0 +1,2 @@
+openpyxl==2.5.5
+xlsxwriter==1.0.5

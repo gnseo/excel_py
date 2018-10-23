@@ -1,0 +1,17 @@
+7z
+__pycache__
+*.log
+*.pyc
+*.dist-info
+*.egg-info
+latest.zip
+archive.bat
+*.xlsx
+requirements.txt
+template.yml
+event.json
+LICENSE
+.gitignore
+.gitattributes
+.git
+README.md
